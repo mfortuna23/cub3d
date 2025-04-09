@@ -48,3 +48,7 @@ Runs on **Linux** and **macOS**! 🐧🍎
 ```bash
   ./cub3d map_files/valid/valid1.cub
 ```
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
