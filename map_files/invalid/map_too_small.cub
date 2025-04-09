@@ -1,0 +1,11 @@
+NO ./textures/pink.xpm
+SO ./textures/red.xpm
+WE ./textures/green.xpm
+EA ./textures/yellow.xpm
+
+F 251,237,188
+C 122,216,250
+
+111
+101
+111
