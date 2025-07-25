@@ -13,7 +13,7 @@ This project was brought to life by a dynamic duo:
 ## 💡 About the Project
 
 The goal? Create a simple 3D game engine using the **raycasting** technique (a bit like how early FPS games rendered 3D environments). 
-Our engine loads a map, renders walls and sprites in 3D, and lets you move around as if you’re inside a pixelated labyrinth.
+Our engine loads a map, renders walls in 3D, and lets you move around as if you’re inside a pixelated labyrinth.
 
 ### Features:
 - 3D rendering with raycasting 🧱
