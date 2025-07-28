@@ -49,7 +49,8 @@ Runs on **Linux** and **macOS**! 🐧🍎
   ./cub3d map_files/valid/valid1.cub
 ```
 
-<img width="1455" height="803" alt="image" src="https://github.com/user-attachments/assets/f4423f17-6c73-4e36-94ba-9237048c50e0" />
+<img width="1791" height="979" alt="image" src="https://github.com/user-attachments/assets/ef4b456b-669c-40ce-a317-a8a864d72a23" />
+
 
 
 ## 📄 License
