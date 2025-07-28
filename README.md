@@ -49,6 +49,9 @@ Runs on **Linux** and **macOS**! 🐧🍎
   ./cub3d map_files/valid/valid1.cub
 ```
 
+<img width="1455" height="803" alt="image" src="https://github.com/user-attachments/assets/f4423f17-6c73-4e36-94ba-9237048c50e0" />
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
